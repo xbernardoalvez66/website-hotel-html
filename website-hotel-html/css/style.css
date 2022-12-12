@@ -526,7 +526,7 @@ position: relative;
       transform-origin: top;
       transition: transform 0.4s ease;
       box-sizing: border-box;
-      box-shadow: 0 13px  43px rgb(37 46 89/10%);
+      box-shadow: 0 13px  43px 0 rgb(37 46 89 / 10%);
 
      }
 
