@@ -480,7 +480,7 @@ position: relative;
       margin-bottom: 20px;
       font-weight: 400;
      }
-     .restaurant  p .text {
+     .restaurant   .text  p {
       margin-bottom: 50px;
       line-height: 25px;
      }
